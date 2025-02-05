@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Graph Neural Network for Pandemic Prediction<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with EDA<br>🌱 I’m currently learning Data Science and AI<br>💬 Ask me about Data<br>
 
-<html>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="roystonfernandez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/roystonfernandez?trk=profile-badge">Royston Fernandez</a></div>
-</html>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/roystonfernandez/) 
 
